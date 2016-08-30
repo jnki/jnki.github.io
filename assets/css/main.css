@@ -403,10 +403,9 @@ ul {
           font-weight: normal;
           text-transform: none !important; }
         ul.icons li a:before {
-          color: #ffffff;
-          text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf; }
+          color: #2e2e2e; }
         ul.icons li a:hover:before {
-          text-shadow: 1.25px 0px 0px #9787a8, -1.25px 0px 0px #9787a8, 0px 1.25px 0px #9787a8, 0px -1.25px 0px #9787a8; }
+          color: #9787a8; }
         ul.icons li a:before {
           position: absolute;
           top: 0;
