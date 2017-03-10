@@ -63,7 +63,6 @@ html {
 
 body {
   height: 100%;
-  background-color: #2e2e2e;
   background-repeat: repeat,			no-repeat,			no-repeat;
   background-size: 100px 100px,	cover,				cover;
   background-position: top left,		center center,		bottom center;
@@ -544,7 +543,8 @@ button,
   -moz-transition: opacity 1s ease, -moz-transform 1s ease;
   -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
   -ms-transition: opacity 1s ease, -ms-transform 1s ease;
-  transition: opacity 1s ease, transform 1s ease; }
+  transition: opacity 1s ease, transform 1s ease;
+  box-shadow: 0px 0px 20px #555;}
   #main .avatar {
     position: relative;
     display: block;
@@ -577,7 +577,8 @@ button,
     -moz-transform: rotateX(15deg);
     -webkit-transform: rotateX(15deg);
     -ms-transform: rotateX(15deg);
-    transform: rotateX(15deg); }
+    transform: rotateX(15deg);
+  box-shadow: 0px 0px 10px #555;}
 
 /* Footer */
 #footer {
