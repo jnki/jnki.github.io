@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
+@import url(fontawesome-all.css);
 @import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 /*
 	Identity by HTML5 UP
@@ -230,7 +230,7 @@ textarea {
     content: "";
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
@@ -284,7 +284,7 @@ input[type="radio"] {
     input[type="radio"] + label:before {
       -moz-osx-font-smoothing: grayscale;
       -webkit-font-smoothing: antialiased;
-      font-family: FontAwesome;
+      font-family: "Font Awesome 5 Brands";
       font-style: normal;
       font-weight: normal;
       text-transform: none !important; }
@@ -343,7 +343,7 @@ input[type="radio"] + label:before {
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
@@ -397,7 +397,7 @@ ul {
         ul.icons li a:before {
           -moz-osx-font-smoothing: grayscale;
           -webkit-font-smoothing: antialiased;
-          font-family: FontAwesome;
+          font-family: "Font Awesome 5 Brands";
           font-style: normal;
           font-weight: normal;
           text-transform: none !important; }
